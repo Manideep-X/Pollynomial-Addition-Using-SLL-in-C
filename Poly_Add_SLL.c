@@ -1,3 +1,10 @@
+//Code written by Manideep Bhattacharyya
+//2nd year B.Tech student
+//This code is written in C Programming language.
+//In this code two polynomials will be added with the help of Singly Link List and the output will be shown.
+//User need to give the value of coefficient and exponent of each factor.
+
+
 #include<stdio.h>
 #include<stdlib.h>
 struct node 
